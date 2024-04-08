@@ -1,7 +1,8 @@
 # hbomax
 Clone do HBOMax com HTML e CSS contendo algumas modificações. Projeto de desafio final para a Trilha de CSS da Digital Innovation One.
 
-<img src="assets/images/readme-images/cover.png">
+![image](https://github.com/BieLsUs/hbomax/assets/100472192/89f133cb-d402-4f05-aa35-c8788340b3b7)
+
 
 <h1 align="center">Site HBO Max</h1>
 <h4 align="center">Clone com modificações</h4>
@@ -14,7 +15,7 @@ Clone do HBOMax com HTML e CSS contendo algumas modificações. Projeto de desaf
 </p>
 
 <a href="https://micheleambrosio.github.io/hbomax/">
-  <img src="assets/images/readme-images/cover-2.png">
+  [<img src="assets/images/readme-images/cover-2.png">](https://github.com/micheleambrosio/hbomax/blob/master/assets/images/readme-images/cover-2.png?raw=true)
 </a>
 
 ## 📎 Sumário
