@@ -15,7 +15,7 @@ Clone do HBOMax com HTML e CSS contendo algumas modificações. Projeto de desaf
 </p>
 
 <a href="https://micheleambrosio.github.io/hbomax/">
-  ![image](https://github.com/BieLsUs/hbomax/assets/cover-2.png)
+  ![image](https://github.com/BieLsUs/hbomax/assets/img/cover-2.png)
 </a>
 
 ## 📎 Sumário
